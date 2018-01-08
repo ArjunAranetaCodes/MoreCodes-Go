@@ -120,6 +120,9 @@ Computer Programming Problems and Solutions with the Go Language
 19. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Conversions/problem19.go" target="_blank">Write a program that converts numbers to words.</a>
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Conversions/problem20.go" target="_blank">Write a program that converts a number to its corresponding month (e.g. 1 = January).</a>
 
+- - - - 
+###  [Go Number Patterns Programming Problems](Number Patterns/) <- Click to go to Number Patterns Problems
+
 #
 
 <p align="center">
