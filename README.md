@@ -1,8 +1,7 @@
-# MoreCodes
+<h1 align="center">MoreCodes</h1>
 <p align="center"> 
-<img src="/morecodescir.png">
+  <img src="/morecodescir.png"/>
 </p>
-![MoreCodes Logo](/morecodescir.png)
 
 # MoreCodes- Go Programming Problems
 This repository is for Go codes of my blog: http://more-codes.com/
