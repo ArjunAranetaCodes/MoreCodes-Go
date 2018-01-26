@@ -11,7 +11,7 @@ Join Us on Youtube! <br/>
 #
 
 # MoreCodes- Go Programming Problems
-This repository is for Go codes of my blog: http://more-codes.com/
+Computer Programming Problems and Solutions with the Go Language
 
 1. Basic Output
 2. Variables
@@ -122,3 +122,8 @@ This repository is for Go codes of my blog: http://more-codes.com/
 18. Write a program that converts liter to milliliter.
 19. Write a program that converts numbers to words.
 20. Write a program that converts a number to its corresponding month (e.g. 1 = January).
+
+<p align="center">
+Check out More on our website! <br/>
+<i><u>http://more-codes.com/</u></i>
+</p>
