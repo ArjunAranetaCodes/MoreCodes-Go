@@ -1,4 +1,7 @@
 # MoreCodes
+<p align="center"> 
+<img src="/morecodescir.png">
+</p>
 ![MoreCodes Logo](/morecodescir.png)
 
 # MoreCodes- Go Programming Problems
