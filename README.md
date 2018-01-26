@@ -1,5 +1,5 @@
 # MoreCodes
-[[MoreCodes-Go/morecodescir.png|alt=morecodes]]
+![MoreCodes Logo](/morecodescir.png)
 
 # MoreCodes- Go Programming Problems
 This repository is for Go codes of my blog: http://more-codes.com/
