@@ -14,7 +14,7 @@ Join Us on Youtube! <br/>
 Computer Programming Problems and Solutions with the Go Language
 
 - - - -
-### [Go Easy Programming Problems](Problems/) <- Click to go to Easy Problems
+### [Go Easy Programming Problems](../Problems) <- Click to go to Easy Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem1.go" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem2.go" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
