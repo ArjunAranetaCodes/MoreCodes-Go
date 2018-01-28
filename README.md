@@ -14,15 +14,15 @@ Join Us on Youtube! <br/>
 Computer Programming Problems and Solutions with the Go Language
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics1.go" target="_blank">Basic Output</a>
-2. Variables
-3. Basic Input
-4. Comment
-5. Arithmetic Operation
-6. Loops
-7. Condition (If/Else)
-8. Condition (Switch )
-9. Function/Method
-10. Array/List
+2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics2.go" target="_blank">Variables</a>
+3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics3.go" target="_blank">Basic Input</a>
+4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics4.go" target="_blank">Comment</a>
+5. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics5.go" target="_blank">Arithmetic Operation</a>
+6. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics6.go" target="_blank">Loops</a>
+7. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics7.go" target="_blank">Condition (If/Else)</a>
+8. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics8.go" target="_blank">Condition (Switch )</a>
+9. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics9.go" target="_blank">Function/Method</a>
+10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics10.go" target="_blank">Array/List</a>
 
 - - - -
 ### [Go Easy Programming Problems](Problems/) <- Click to go to Easy Problems
