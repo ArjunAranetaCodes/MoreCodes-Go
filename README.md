@@ -13,7 +13,7 @@ Join Us on Youtube! <br/>
 # MoreCodes- Go Programming Problems
 Computer Programming Problems and Solutions with the Go Language
 
-1. Basic Output
+1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics1.go" target="_blank">Basic Output</a>
 2. Variables
 3. Basic Input
 4. Comment
