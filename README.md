@@ -79,10 +79,7 @@ Computer Programming Problems and Solutions with the Go Language
 
 - - - -
 ### [Go Array Programming Problems](Arrays/) <- Click to go to Array Problems
-1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem1.go" target="_blank">
-Write a program that outputs the length of array.
-</a>
-
+1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem1.go" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem2.go" target="_blank">Write a program that gets the index of an element in an array.</a>
 3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem3.go" target="_blank">Write a program that counts the occurence of an element in an array.</a>
 4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem4.go" target="_blank">Write a program that outputs the first and last elements of an array.</a>
