@@ -30,10 +30,8 @@ Computer Programming Problems and Solutions with the Go Language
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem1.go" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem2.go" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
 3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem3.go" target="_blank">Write a program that accepts length and width of rectangle to find area.</a>
-4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem4.go" target="_blank">Write a program that accepts radius of a circle and find its
- diameter, circumference, and area.</a>
-5. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem5.go" target="_blank">Write a program that accepts that accepts temperature in Celcius and
- convert it to Farenheit.</a>
+4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem4.go" target="_blank">Write a program that accepts radius of a circle and find its diameter, circumference, and area.</a>
+5. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem5.go" target="_blank">Write a program that accepts that accepts temperature in Celcius and convert it to Farenheit.</a>
 6. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem6.go" target="_blank">Write a program that checks a number input is even or odd.</a>
 7. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem7.go" target="_blank">Write a program that finds the sum of all numbers from 1 to 20.</a>
 8. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Easy%20Problems/problem8.go" target="_blank">Write a program that outputs all numbers divisible by 5 from 1 to 30.</a>
@@ -53,9 +51,7 @@ Computer Programming Problems and Solutions with the Go Language
 - - - -
 ### [Go Loops Programming Problems](Loops/) <- Click to go to Loop Problems
 
-1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem1.go" target="_blank">Write a program that prints the numbers from 1 to 50.
-   Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and
-   bot "FizzBuzz" for multiples of both 3 and 5.</a>
+1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem1.go" target="_blank">Write a program that prints the numbers from 1 to 50. Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and bot "FizzBuzz" for multiples of both 3 and 5.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem2.go" target="_blank">Write a program that outputs 5 random integers.</a>
 3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem3.go" target="_blank">Write a program that count letters in a string using a loop.</a>
 4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem4.go" target="_blank">Write a program that outputs an asterisk pyramid.</a>
@@ -69,8 +65,7 @@ Computer Programming Problems and Solutions with the Go Language
 12. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem12.go" target="_blank">Calculate the Product of two numbers WITHOUT using the * operator.</a>
 13. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem13.go" target="_blank">Write a program that reverses a string.</a>
 14. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem14.go" target="_blank">Write a program that accepts 5 numbers and outputs the average.</a>
-15. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem15.go" target="_blank">Write a program that will ask the user to input n positive numbers.
-    The program will terminate if one of those number is not positive.</a>
+15. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem15.go" target="_blank">Write a program that will ask the user to input n positive numbers. The program will terminate if one of those number is not positive.</a>
 16. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem16.go" target="_blank">Write a program that outputs the factorial of a number.</a>
 17. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem17.go" target="_blank">Write a program that outputs the Fibonacci sequence of a number.</a>
 18. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem18.go" target="_blank">(Recursion) Write a program that outputs the Fibonacci sequence of a number.</a>
@@ -79,6 +74,7 @@ Computer Programming Problems and Solutions with the Go Language
 
 - - - -
 ### [Go Array Programming Problems](Arrays/) <- Click to go to Array Problems
+
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem1.go" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem2.go" target="_blank">Write a program that gets the index of an element in an array.</a>
 3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Arrays/problem3.go" target="_blank">Write a program that counts the occurence of an element in an array.</a>
@@ -102,6 +98,7 @@ Computer Programming Problems and Solutions with the Go Language
 
 - - - - 
 ###  [Go Conversion Programming Problems](Conversions/) <- Click to go to Conversion Problems
+
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Conversions/problem1.go" target="_blank">Write a program that converts a number to string.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Conversions/problem2.go" target="_blank">Write a program that converts a string to integer.</a>
 3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Conversions/problem3.go" target="_blank">Write a program that converts an integer to float.</a>
